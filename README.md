@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-SNS: <a href="https://www.linkedin.com/in/harukakotani/"><img src="linkedin.png" alt="Girl in a jacket" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/harukakotani/"><img src="linkedin.png" alt="Girl in a jacket" width="30" height="30"></a>
 <a href="https://twitter.com/CanadaHaruka"><img src="insta.png" alt="Girl in a jacket" width="30" height="30"></a>
 
 <!--
