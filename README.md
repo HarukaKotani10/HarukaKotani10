@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/haruka.k28/"><img src="insta1.png" alt="twitter" width="30" height="30"></a>
 <a href="https://twitter.com/CanadaHaruka"><img src="twitter.png" alt="twitter" width="30" height="30"></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=HarukaKotani10)
 
 <!--
 **HarukaKotani10/HarukaKotani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
